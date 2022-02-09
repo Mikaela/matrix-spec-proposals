@@ -155,6 +155,9 @@ Profiles as rooms can be used to post content to a wider audiance.
 The GUI should make clear who can see the stories and should inform the
 user that all subscribers can potentially see each others Matrix IDs.
 
+Matrix doesn't protect against downloading from the media repository and
+the media may be accessible after 24 hours should the link be known.
+
 ## Unstable prefix
 
 `msc3588.stories.stories-room`
